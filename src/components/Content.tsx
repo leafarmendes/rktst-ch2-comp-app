@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { useEffect, useState } from "react";
 import { api } from "../services/api";
 import { MovieCard } from "./MovieCard";
@@ -50,8 +49,4 @@ export function Content({ selectedGenreId, selectedGenre }: ContentProps) {
         </main>
       </div>
   )
-=======
-export function Content() {
-  // Complete aqui
->>>>>>> 8602cf78b709d697ec66a4d5c37af6c6a272b09c
 }

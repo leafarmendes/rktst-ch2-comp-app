@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { useEffect, useState } from "react";
 import { api } from "../services/api";
 import { Button } from "./Button";
@@ -42,8 +41,4 @@ export function SideBar({handleClickButton, selectedGenreId }: SideBarProps) {
 
   </nav>    
   )
-=======
-export function SideBar() {
-  // Complete aqui
->>>>>>> 8602cf78b709d697ec66a4d5c37af6c6a272b09c
 }
